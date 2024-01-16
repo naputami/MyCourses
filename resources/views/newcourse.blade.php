@@ -40,7 +40,7 @@
                       </select>
                 </div>
                 <div class="mb-3">
-                    <label for="subject_teacher_id" class="form-label">Subject_teacher</label>
+                    <label for="subject_teacher_id" class="form-label">Subject teacher</label>
                     <select class="form-select" aria-label="select subject teacher" name="subject_teacher_id" id="subject_teacher">
                         <option selected>Select subject first!</option>
                     </select>
